@@ -18,6 +18,7 @@ status-website:
   baseUrl: /smon
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
+  theme: dark
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: No server required — just GitHub Actions, Issues, and Pages.
   navbar:
