@@ -1,7 +1,7 @@
 url: $SOAR_PROD
 status: up
 code: 200
-responseTime: 170
-lastUpdated: 2024-08-15T23:23:46.050Z
+responseTime: 300
+lastUpdated: 2024-08-16T23:16:43.978Z
 startTime: 2024-08-01T18:32:08.523Z
 generator: Upptime <https://github.com/upptime/upptime>
