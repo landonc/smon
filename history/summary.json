@@ -22,7 +22,7 @@
     "url": "$SOAR_DEV",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "soar-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 258,
     "timeYear": 299,
     "dailyMinutesDown": {
+      "2025-01-19": 0,
       "2024-10-06": 47
     }
   }
